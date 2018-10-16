@@ -1,0 +1,26 @@
+body{
+ background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluFeNeHXswPrLOh9OJ0pnidmNKUhPjpNPJuw_DNaLKT7rs0tT");   
+}
+h1{
+    text-align:center;
+}
+p{
+ text-align:center;   
+}
+img{
+ display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+.bestmovie{
+   font-family: 'Montserrat', sans-serif; 
+}
+.artist{
+    font-family: 'Slabo 27px', serif;
+}
+.tv{
+  font-family: 'Charmonman', cursive;
+}
+.broadway{
+ font-family: 'Playfair Display', serif;   
+}
